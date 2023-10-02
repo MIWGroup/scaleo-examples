@@ -25,11 +25,11 @@ Make sure to fill in the required environment variables before running the API.
 Before running the API, you need to fill in the following environment variables in a `.env` file or in your preferred environment setup:
 
 ```
-SCALEO_ADDRESS="https://scaleo.eu"
+SCALEO_ADDRESS="https://api.scaleo.eu"
 AWS_COGNITO_TOKEN_ENDPOINT=https://auth.scaleo.eu/oauth2/token
-CUSTOMER_ID=93b7e75f-b124-4a10-87bc-1f76c2ff684e<insert from scaleo>
-CLIENT_ID=1j3vggc1e7nciobraa8pq6a0ug<insert from scaleo>
-CLIENT_SECRET=mk43gcqpvb0jm6m4sfnf7jml9jsio10cgmltvmm4l1t631p2bdc<insert from scaleo>
+CUSTOMER_ID=<insert from scaleo>
+CLIENT_ID=<insert from scaleo>
+CLIENT_SECRET=<insert from scaleo>
 ```
 
 Make sure to replace the values with the appropriate ones for your setup.
