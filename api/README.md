@@ -26,7 +26,7 @@ Before running the API, you need to fill in the following environment variables 
 
 ```
 SCALEO_ADDRESS="https://api.scaleo.eu"
-AWS_COGNITO_TOKEN_ENDPOINT=https://auth.scaleo.eu/oauth2/token
+TOKEN_ENDPOINT=https://auth.scaleo.eu/oauth2/token
 CUSTOMER_ID=<insert from scaleo>
 CLIENT_ID=<insert from scaleo>
 CLIENT_SECRET=<insert from scaleo>

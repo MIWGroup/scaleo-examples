@@ -18,7 +18,7 @@ const getAccessToken = async scope => {
 
   try {
     const accessTokenResponse = await axios.post(
-      process.env.AWS_COGNITO_TOKEN_ENDPOINT,
+      process.env.TOKEN_ENDPOINT,
       body,
       config
     )
