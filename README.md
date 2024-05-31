@@ -4,4 +4,5 @@ This repository contains examples and sample code demonstrating the usage of Sca
 
 ## Table of Contents
 
-- [api](#/api)
+- [offline](#/offline-api)
+- [online](#/online-api)
