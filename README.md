@@ -4,5 +4,5 @@ This repository contains examples and sample code demonstrating the usage of Sca
 
 ## Table of Contents
 
-- [offline](#/offline-api)
-- [online](#/online-api)
+- [offline](https://github.com/MIWGroup/scaleo-examples/tree/main/offline-api)
+- [online](https://github.com/MIWGroup/scaleo-examples/tree/main/online-api)
